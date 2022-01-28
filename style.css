@@ -1,0 +1,50 @@
+
+
+body {
+    background-color: black;
+  
+
+
+
+}
+
+main{
+    text-align: center;
+    padding-top: 200px;
+
+}
+div{
+    font-size: 25px;
+    background-color: rgb(153, 152, 152);
+    color: black;
+    position: absolute;
+    padding: 30px 50px 50px 50px;
+    margin: 0px 0px 500px 450px;
+    width: 30%;
+    border-radius: 50px;
+    border: solid 1px;
+}
+input{
+    position:relative;
+    margin: 25px;
+    width: 70%;
+    
+  
+}
+
+button{
+
+width: 60%;
+
+
+
+}
+p{
+    text-align: center;
+    margin-left: 100px;
+    padding: 0px;
+    width: 50%;
+    font-size: 15px;
+    background-color: red;
+    
+}
